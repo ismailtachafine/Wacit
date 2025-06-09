@@ -24,36 +24,36 @@ The application consists of the following core modules:
 
 ### 3.1. User Management Module
 
-![Diagram 0](new_wacit_prod/docs/diagrams/diagram_0.png)
+![Diagram 0](docs/diagrams/diagram_0.png)
 
 ### 3.2. Project Management Module
 
-![Diagram 1](new_wacit_prod/docs/diagrams/diagram_1.png)
+![Diagram 1](docs/diagrams/diagram_1.png)
 
 ### 3.3. Astreinte Management Module
 
-![Diagram 2](new_wacit_prod/docs/diagrams/diagram_2.png)
+![Diagram 2](docs/diagrams/diagram_2.png)
 
 ### 3.4. Prime Management Module
 
-![Diagram 3](new_wacit_prod/docs/diagrams/diagram_3.png)
+![Diagram 3](docs/diagrams/diagram_3.png)
 
 ### 3.5. ITICS (IT Costs) Module
-![Diagram 4](new_wacit_prod/docs/diagrams/diagram_4.png)
+![Diagram 4](docs/diagrams/diagram_4.png)
 
 ## 4. Sequence Diagrams for Key Workflows
 
 ### 4.1. User Authentication
 
-![Diagram 5](new_wacit_prod/docs/diagrams/diagram_5.png)
+![Diagram 5](docs/diagrams/diagram_5.png)
 
 ### 4.2. Project Creation
 
-![Diagram 6](new_wacit_prod/docs/diagrams/diagram_6.png)
+![Diagram 6](docs/diagrams/diagram_6.png)
 
 ### 4.3. Astreinte Creation
 
-![Diagram 7](new_wacit_prod/docs/diagrams/diagram_7.png)
+![Diagram 7](docs/diagrams/diagram_7.png)
 
 ## 5. Installation/Usage Instructions
 
