@@ -24,7 +24,7 @@ The application consists of the following core modules:
 
 ### 3.1. User Management Module
 
-![Diagram 0](docs/diagrams/diagram_0.png)
+![Diagram 0](docs/diagrams/ev_stations_ny.png)
 
 ### 3.2. Project Management Module
 
