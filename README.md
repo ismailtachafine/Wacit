@@ -22,11 +22,11 @@ These example diagrams illustrate general module architecture. For detailed diag
 
 ### General Module Structure
 
-![Diagram 0](new_wacit_prod/docs/diagrams/diagram_0.png)
+![Diagram 0](docs/diagrams/diagram_0.png)
 
 ### Astreinte Module (Sample Diagram)
 
-![Diagram 1](new_wacit_prod/docs/diagrams/diagram_1.png)
+![Diagram 1](docs/diagrams/diagram_1.png)
 
 ## 4. Sequence Diagrams for Key Workflows
 
@@ -34,11 +34,11 @@ The following are illustrative examples. Refined diagrams should be based on act
 
 ### Creating a New Shift (Astreinte Module)
 
-![Diagram 2](new_wacit_prod/docs/diagrams/diagram_2.png)
+![Diagram 2](docs/diagrams/diagram_2.png)
 
 ### Requesting an Evaluation (EVP Module)
 
-![Diagram 3](new_wacit_prod/docs/diagrams/diagram_3.png)
+![Diagram 3](docs/diagrams/diagram_3.png)
 
 ## 5. Installation and Usage Instructions
 
