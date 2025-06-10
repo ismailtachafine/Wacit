@@ -1,0 +1,57 @@
+```json
+{
+  "architecture": "MVC (Model-View-Controller) implemented using the Symfony framework (version 6.4)",
+  "core_modules": {
+    "controller": {
+      "location": "src/Controller",
+      "description": "Handles user requests and interacts with the Model."
+    },
+    "model": {
+      "entities": {
+        "location": "src/Entity",
+        "description": "Represents the data model."
+      },
+      "repositories": {
+        "location": "src/Repository",
+        "description": "Handles database interactions using Doctrine ORM."
+      }
+    },
+    "view": {
+      "location": "templates",
+      "description": "Renders the user interface using Twig templates."
+    },
+    "form": {
+      "location": "src/Form",
+      "description": "Handles form creation and processing."
+    },
+    "security": {
+      "description": "Handles authentication and authorization using Symfony's Security component."
+    },
+    "command": {
+      "location": "src/Command",
+      "description": "Implements console commands for various tasks."
+    },
+    "service": {
+      "location": "src/Service",
+      "description": "Implements reusable business logic."
+    }
+  },
+  "relationships": [
+    "Controllers interact with Models (Entities and Repositories) to retrieve and manipulate data.",
+    "Controllers pass data to Views (Twig templates) for rendering.",
+    "Forms are used in Controllers to handle user input.",
+    "Services are used by Controllers to encapsulate business logic.",
+    "Commands interact with Entities and Repositories to perform data operations."
+  ],
+  "data_flow": [
+    "User request -> Controller -> Model (Entities & Repositories) -> Database",
+    "Database -> Model -> Controller -> View (Twig template) -> User response"
+  ],
+  "external_dependencies": [
+    "Symfony framework (version 6.4)",
+    "Doctrine ORM",
+    "Twig templating engine",
+    "PHPOffice/PhpSpreadsheet"
+  ]
+}
+```
